@@ -1,11 +1,26 @@
-# Game_starwars
-Made with Help of Tech WIth Tim Youtube and Pygame library
+# Star Wars Game
 
-added controller and single player functionality
+A space shooter game built with Python and Pygame, inspired by Tech With Tim.
 
-to use ps4 controller use DS4
-and X is to shoot and you can move around with D-pad and Left stick.
+## Features
+- **Single Player Mode**: Test your skills against waves of enemies.
+- **Controller Support**: Full support for PS4 (DualShock 4) controllers.
+- **Keyboard Support**: Classic WASD and Arrow key controls.
 
-in keyboard
-shoot with shift(right and left for respectively)
-and move with w-a-s-d and up-down-right-left keys
+## Controls
+
+### 🎮 PS4 Controller (DS4)
+| Action | Input |
+| :--- | :--- |
+| **Move** | D-Pad or Left Stick |
+| **Shoot** | X Button |
+
+### ⌨️ Keyboard
+| Action | Input |
+| :--- | :--- |
+| **Move** | WASD or Arrow Keys |
+| **Shoot** | Left or Right Shift |
+
+## Credits
+- Built with help from [Tech With Tim](https://www.youtube.com/c/TechWithTim)
+- Library: [Pygame](https://www.pygame.org/)
