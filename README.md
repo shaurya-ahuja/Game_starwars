@@ -1,6 +1,6 @@
 # Star Wars Game
 
-A space shooter game built with Python and Pygame, inspired by Tech With Tim.
+A space shooter game built with Python and Pygame.
 
 ## Features
 - **Single Player Mode**: Test your skills against waves of enemies.
